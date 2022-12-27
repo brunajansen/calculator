@@ -1,0 +1,6 @@
+.App {
+  background-image: linear-gradient(pink, rgb(160, 250, 240));
+  height: 100vh;
+  overflow: hidden;
+  text-align: center;
+}
